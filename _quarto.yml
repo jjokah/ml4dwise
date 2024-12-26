@@ -1,0 +1,7 @@
+project: 
+  type: website
+  output-dir: quarto
+
+website: 
+  title: ml4dwise
+  
