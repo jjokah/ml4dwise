@@ -1,7 +1,18 @@
 project: 
   type: website
-  output-dir: quarto
+  output-dir: html
 
 website: 
   title: ml4dwise
-  
+  navbar:
+    left:
+      - text: Home
+        href: notebooks/intro.html
+      - text: Next
+        href: notebooks/next.html
+
+format:
+  html:
+    theme: united
+    css: sytle.css
+    toc: true

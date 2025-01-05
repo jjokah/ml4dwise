@@ -1,0 +1,9 @@
+name: ml4dwise
+static_sites:
+- environment_slug: html
+  name: ml4dwise
+  index_document: html/index.html
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: jjokah/ml4dwise
