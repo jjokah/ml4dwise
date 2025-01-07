@@ -7,6 +7,8 @@ website:
   navbar:
     left:
       - text: Home
+        href: index.qmd
+      - text: Intro
         href: notebooks/intro.html
       - text: Next
         href: notebooks/next.html
