@@ -26,4 +26,5 @@ format:
     theme: 
       dark: cyborg
       light: lux
+    css: styles.css
     toc: true
