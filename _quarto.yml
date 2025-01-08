@@ -23,6 +23,7 @@ website:
 
 format:
   html:
-    theme: united
-    css: sytle.css
+    theme: 
+      dark: cyborg
+      light: lux
     toc: true
