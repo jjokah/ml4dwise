@@ -3,7 +3,8 @@ project:
   output-dir: html
 
 website: 
-  title: ml4dwise
+  title: ML4DWISE
+  favicon: favicon.ico
   navbar:
     left:
       - text: Home
@@ -24,7 +25,7 @@ website:
 format:
   html:
     theme: 
-      dark: cyborg
       light: lux
+      dark: cyborg
     css: styles.css
     toc: true
