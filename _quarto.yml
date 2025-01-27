@@ -10,13 +10,9 @@ website:
       - text: Home
         href: index.qmd
       - text: Python
-        menu:
-          - text: Introduction to Python
-            href: 1_python/11_introduction_to_python.html
+        href: 1_python.html
       - text: Artificial Intelligence
-        menu:
-          - text: Artificial Intelligence Introduction
-            href: 2_ai/21_artificial_intelligence_introduction.html
+        href: 2_ai.html
       - text: Machine Learning
         menu:
           - text: Machine Learning Introduction
@@ -25,7 +21,6 @@ website:
 format:
   html:
     theme: 
-      light: lux
-      dark: cyborg
+      light: simplex
     css: styles.css
     toc: true
