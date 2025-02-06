@@ -10,11 +10,23 @@ website:
       - text: Home
         href: index.qmd
       - text: Python
-        href: python.html
+        menu:
+        - text: Python Intro
+          href: python.html
+        - text: py-first
+          href: python/first.html
       - text: Artificial Intelligence
-        href: ai.html
+        menu:
+        - text: AI Intro
+          href: ai.html
+        - text: ai-first
+          href: ai/ai-first.html
       - text: Machine Learning
         menu:
+          - text: ML Intro
+            href: ml.html
+          - text: ml-first
+            href: ml/ml-first.html
           - text: Machine Learning Introduction
             href: ml/31_machine_learning_introduction.html
 
