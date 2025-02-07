@@ -12,23 +12,21 @@ website:
       - text: Python
         menu:
         - text: Python Intro
-          href: python.html
+          href: 1_python/11_python_intro.html
         - text: py-first
-          href: python/first.html
+          href: 1_python/first.html
       - text: Artificial Intelligence
         menu:
         - text: AI Intro
-          href: ai.html
+          href: 2_ai/21_ai_intro.html
         - text: ai-first
-          href: ai/ai-first.html
+          href: 2_ai/ai-first.html
       - text: Machine Learning
         menu:
           - text: ML Intro
-            href: ml.html
+            href: 3_ml/31_ml_intro.html
           - text: ml-first
-            href: ml/ml-first.html
-          - text: Machine Learning Introduction
-            href: ml/31_machine_learning_introduction.html
+            href: 3_ml/ml-first.html
 
 format:
   html:
