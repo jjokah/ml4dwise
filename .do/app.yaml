@@ -2,7 +2,7 @@ name: ml4dwise
 static_sites:
 - environment_slug: html
   name: ml4dwise
-  index_document: html/index.html
+  index_document: website/index.html
   github:
     branch: main
     deploy_on_push: true

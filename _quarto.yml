@@ -1,6 +1,6 @@
 project: 
   type: website
-  output-dir: html
+  output-dir: website
 
 website: 
   title: ML4DWISE
